@@ -1,0 +1,2 @@
+# diwakar
+Git and GitHub are integral to the software development workflow of many large teams. They also power some of the most popular open-source projects. It’s essential that you get familiar with Git and make GitHub an integral part of your workflow as a developer.  Today, we will provide a quick introduction to Git and GitHub. You will learn the basics of these tools and learn how to create a new repository on your local machine and on GitHub. You will also learn how to synchronize your local repository with the remote one on GitHub. Let’s get started!
